@@ -48,13 +48,13 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+git clone https://github.com/yeshwanthlm/simple-node-cloud-deploy.git
 ```
 
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd simple-node-cloud-deploy
 npm install
 ```
 
